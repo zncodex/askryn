@@ -1,0 +1,24 @@
+askryn
+Copyright 2026 zncodex
+
+This product includes software developed by zncodex
+(https://github.com/zncodex/askryn).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+------------------------------------------------------------------------
+All original source code and binaries in this repository were authored
+by zncodex. Forks and derivative works MUST preserve this attribution
+notice, per Section 4(d) of the Apache License, Version 2.0.
+------------------------------------------------------------------------
+
+This product bundles the following third-party components:
+
+  Android Debug Bridge (adb) — adb.exe, adbwinapi.dll, adbwinusbapi.dll
+  Copyright (C) The Android Open Source Project
+  Licensed under the Apache License, Version 2.0
+  https://android.googlesource.com/platform/packages/modules/adb/
