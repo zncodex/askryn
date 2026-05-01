@@ -3,9 +3,9 @@
 <img src="assets/askryn-logo.png" width="200" alt="askryn" />
 
 
-### Your Android. On your PC. In one file.
+### Your Androids. On your PC. In one file.
 
-Mirror. Control. Screenshot. Record. One file. Zero bloat.
+Mirror. Control. Screenshot. Record. Multi-device. Zero bloat.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078d4)
@@ -19,9 +19,11 @@ Mirror. Control. Screenshot. Record. One file. Zero bloat.
 
 
 <div align="center">
-<img src="assets/askryn-a.png" alt="askryn screenshot A" width="45%" />
+<img src="assets/askryn-a.png" alt="askryn screenshot A" width="30%" />
 &nbsp;&nbsp;
-<img src="assets/askryn-b.png" alt="askryn screenshot B" width="45%" />
+<img src="assets/askryn-b.png" alt="askryn screenshot B" width="30%" />
+&nbsp;&nbsp;
+<img src="assets/askryn-c.png" alt="Multi-device picker" width="30%" />
 </div>
 
 
@@ -38,6 +40,7 @@ Mirror. Control. Screenshot. Record. One file. Zero bloat.
 
 - **Live mirroring** — 60 fps H.265 (H.264 fallback), hardware-decoded on NVDEC / Quick Sync, sub-2 ms end-to-end latency
 - **Full control** — mouse, keyboard, scroll, multi-touch-like gestures
+- **Multi-device** — switch between any connected phone instantly via the `▾` picker or `Ctrl+W`, no restart needed
 - **Lossless screenshots** — native resolution PNG pulled straight from the device
 - **MP4 recording** — variable frame rate, muxed on the fly
 - **USB** — plug and play, no extra setup
@@ -61,6 +64,7 @@ No CLI, no config, nothing to install.
 | `Ctrl+P`            | Power                     |
 | `Ctrl+S`            | PNG screenshot            |
 | `Ctrl+R`            | Record to MP4             |
+| `Ctrl+W`            | Switch device             |
 | `Ctrl+D`            | Toggle health overlay     |
 | `Arrow keys`        | D-pad navigation          |
 | `Backspace`         | Delete                    |
@@ -111,5 +115,5 @@ askryn is written from scratch with a native Win32 + D3D11 UI. The only thing in
 
 
 <div align="center">
-<sub>android mirror windows · scrcpy alternative · control android from pc · portable android mirror · record android mp4 · c++ android remote</sub>
+<sub>android mirror windows · scrcpy alternative · control android from pc · portable android mirror · record android mp4 · multi device android · c++ android remote</sub>
 </div>
